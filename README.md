@@ -11,22 +11,22 @@
 ```mermaid
 gantt
     title 甘特圖(測試)
-    section 王明宇
+    section 邱有妤
     工作1 :a1, 2022-10-03, 30d
     工作2 :after a1  , 20d
     
-    section 張立揚
+    section 林姿穎
     工作1 :2022-10-03  , 12d
     工作2 : 24d
     
-    section 陳柏彰
+    section 顏采如
     工作1 :2022-10-03, 50d
     
-    section 邱宗翰
+    section 李怡萱
     工作1 :2022-10-03  , 12d
     工作2 : 24d
     
-    section 謝竣昊
+    section 林宜璇
     工作1 :a1, 2022-10-03, 30d
     工作2 :after a1  , 20d
 ```
