@@ -10,9 +10,11 @@
 
 ***
 # PERT
-![PERT/CPM](PERT.jpg "PERT")
-![PERT/CPM](路徑.jpg "路徑")
-
+![PERT](PERT.jpg "PERT")
+***
+#CPM
+![CPM](路徑.jpg "路徑")
+***
 ***
 # 甘特圖
 ```mermaid
