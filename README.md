@@ -8,6 +8,11 @@
 | 組員 | C109118215 | [李怡萱](https://github.com/bovcu13/2022-3b) | 研擬計畫、後端開發、撰寫計畫書 |
 | 組員 | C109118250 | [林宜璇](https://github.com/Hsxxnil/2022-3b/blob/main/README.md) | 研擬計畫、後端開發、撰寫計畫書 |
 
+***
+# PERT
+![PERT/CPM](PERT.jpg "PERT")
+***
+# 甘特圖
 ```mermaid
 gantt
     title 甘特圖(測試)
