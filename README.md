@@ -13,31 +13,31 @@ gantt
     title 甘特圖(測試)
     section 邱有妤
     研擬計畫:a1, 2022-10-11, 1d
-    工作分配:a2, after a1, 1d
+    工作分配:a2, 1d
     系統測試:a5,after a4, 5d
     撰寫計畫書:a6,after a5, 15d
     
     section 林姿穎
     研擬計畫:a1, 2022-10-11, 1d
-    工作分配:a2, after a1, 1d
+    工作分配:a2, 1d
     前端開發:a3,after a2,20d
     撰寫計畫書:a6,after a5, 15d
     
     section 顏采如
     研擬計畫:a1, 2022-10-11, 1d
-    工作分配:a2, after a1, 1d
+    工作分配:a2, 1d
     前端開發:a3,after a2,20d
     撰寫計畫書:a6,after a5, 15d
     
     section 李怡萱
     研擬計畫:a1, 2022-10-11, 1d
-    工作分配:a2, after a1, 1d
+    工作分配:a2, 1d
     後端開發:a4,after a2, 30d
     撰寫計畫書:a6,after a5, 15d
     
     section 林宜璇
     研擬計畫:a1, 2022-10-11, 1d
-    工作分配:a2, after a1, 1d
+    工作分配:a2, 1d
     後端開發:a4,after a2, 30d
     撰寫計畫書:a6,after a5, 15d
 ```
