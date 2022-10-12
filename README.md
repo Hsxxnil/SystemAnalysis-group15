@@ -1,5 +1,3 @@
-# SystemAnalysis-group15
-
 # 電商訂貨系統
 
 ## 範疇
