@@ -21,7 +21,7 @@
 ![PERT](PERT.jpg "PERT")
 ***
 # CPM
-![CPM](路徑.jpg "路徑")
+![CPM](CPM.jpg "CPM")
 ***
 # 甘特圖
 ```mermaid
