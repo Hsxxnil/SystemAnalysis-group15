@@ -17,16 +17,15 @@
 | 組員 | C109118250 | [林宜璇](https://github.com/Hsxxnil/2022-3b/blob/main/README.md) | 研擬計畫、後端開發、撰寫計畫書 |
 
 ***
-# PERT
+## PERT
 ![PERT](PERT.jpg "PERT")
 ***
-# CPM
+## CPM
 ![CPM](CPM.jpg "CPM")
 ***
-# 甘特圖
+## 甘特圖
 ```mermaid
 gantt
-    title 甘特圖
     section 邱有妤
     研擬計畫:a1, 2022-10-11, 1d
     任務分配:a2,2022-10-11, 1d
