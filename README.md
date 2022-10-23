@@ -22,6 +22,7 @@
 ### 甘特圖
 ```mermaid
 gantt
+    tittle:電商訂貨系統
     section 研擬計畫
     研擬計畫:a1, 2022-10-11, 1d
     
