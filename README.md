@@ -88,4 +88,7 @@ gantt
 | 先決條件 | 廠商需要能夠滿足訂單需求 |
 | 後置條件 | 選擇廠商後即可進行訂購 |
 | 假設 | 無 |
+***
+### Figma
+[電商訂貨系統](https://www.figma.com/proto/XmyLzrCiIyoQD8u9u0cJND/%E9%9B%BB%E5%95%86%E8%A8%82%E8%B2%A8%E7%B3%BB%E7%B5%B1?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1) 
 
