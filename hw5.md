@@ -1,1 +1,9 @@
-
+### 分鏡圖storyboard
+![storyboard1](storyboard1.jpg "storyboard1")
+![storyboard2](storyboard2.jpg "storyboard2")
+![storyboard3](storyboard3.jpg "storyboard2")
+![storyboard4](storyboard4.jpg "storyboard4")
+![storyboard5](storyboard5.jpg "storyboard4")
+![storyboard6](storyboard6.jpg "storyboard5")
+![storyboard7](storyboard7.jpg "storyboard7")
+![storyboard8](storyboard8.jpg "storyboard8")
