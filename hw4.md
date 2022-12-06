@@ -1,21 +1,21 @@
 ### UML類別圖
-
+![uml](uml.jpg "uml")
 ---
 
 ### 循序圖
 ##### 使用者新增訂單
-![使用者新增循序圖](使用者新增循序圖.jpg "使用者新增循序圖")
+![user_add_sequence](user_add_sequence.jpg "user_add_sequence")
 ##### 使用修改訂單
-![使用者修改循序圖](使用者修改循序圖.jpg "使用者修改循序圖")
+![user_edit_sequence](user_edit_sequence.jpg "user_edit_sequence")
 ##### 管理者審核訂單
-![管理者循序圖](管理者循序圖.jpg "管理者循序圖")
+![manager_sequence](manager_sequence.jpg "manager_sequence")
 
 ---
 
 ### 活動圖
 ##### 使用者新增訂單
-![使用者新增活動圖](使用者新增活動圖.jpg "使用者新增活動圖")
+![user_add_activity](user_add_activity.jpg "user_add_activity")
 ##### 使用修改訂單
-![使用者修改活動圖](使用者修改活動圖.jpg "使用者修改活動圖")
+![user_edit_activity](user_edit_activity.jpg "user_edit_activity")
 ##### 管理者審核訂單
-![管理者活動圖](管理者活動圖.jpg "管理者活動圖")
+![manager_activity](manager_activity.jpg "manager_activity")
